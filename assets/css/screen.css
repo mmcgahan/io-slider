@@ -1,0 +1,13 @@
+#qunit {
+  text-align: left;
+}
+body {
+  text-align: center;
+}
+#container {
+  max-width: 720px;
+  margin: 0 auto;
+}
+.slider {
+  margin-top: 150px;
+}
