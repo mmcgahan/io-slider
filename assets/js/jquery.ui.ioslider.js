@@ -1,5 +1,21 @@
+/*!
+ * jQuery UI IO-Slider 1.9.1
+ *
+ * Copyright 2012 jQuery Foundation and other contributors
+ * Additional copyright Michael McGahan
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://api.jqueryui.com/slider/
+ *
+ * Depends:
+ *  jquery.ui.core.js
+ *  jquery.ui.mouse.js
+ *  jquery.ui.widget.js
+ */
+
 $.widget('ui.ioSlider', $.ui.mouse, {
-    version: "0.2",
+    version: "0.1",
     widgetEventPrefix: "slide",
 
     options: {
